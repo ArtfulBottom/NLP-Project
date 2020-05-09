@@ -13,5 +13,6 @@ old_README.md
 /src/data/imdb.csv
 /src/lr_old.py
 /src/embed_topics_old.py
+/src/preprocess_data.py
 .DS_Store
 *workspace
