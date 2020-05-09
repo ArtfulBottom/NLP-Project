@@ -1,0 +1,17 @@
+/aclimdb/
+/.vscode/
+/data/
+/lda_filtered_articles/
+/sample_data/
+/sample_workflow/
+/old_files/
+/word2vec_models/
+old_README.md  
+/src/data/*.txt
+/src/data/datacorpus_word2vec*
+/src/data/results/
+/src/data/imdb.csv
+/src/lr_old.py
+/src/embed_topics_old.py
+.DS_Store
+*workspace
